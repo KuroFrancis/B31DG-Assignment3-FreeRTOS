@@ -1,0 +1,65 @@
+# Arduino IDE files
+*.hex
+*.eep
+*.elf
+*.map
+*.sym
+*.lss
+*.eeprom
+*.bin
+
+# Build outputs
+build/
+*.o
+*.a
+*.so
+*.d
+
+# Libraries (if you want to exclude them)
+# Uncomment if needed:
+# libraries/
+
+# IDE settings
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.pyc
+__pycache__/
+
+# Temporary files
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# ESP32 specific
+sdkconfig
+sdkconfig.old
+
+# Platform IO (if used)
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# VS Code Arduino extension
+.vscode/c_cpp_properties.json
+.vscode/arduino.json
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.directory
