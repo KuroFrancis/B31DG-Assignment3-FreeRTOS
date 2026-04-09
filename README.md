@@ -4,11 +4,11 @@
 Real-time multi-task system implemented using FreeRTOS on ESP32 microcontroller.
 
 ## Author
-- **Name**: Kuro Francis-Epe
+- **Name**: Kuroekegha Francis-Epe
 - **Student ID**: H00518884
-- **Institution**: Heriot-Watt University Edinburgh
-- **Course**: MSc Robotics Engineering
-- **Module**: B31DG Embedded Systems
+- **Institution**: Heriot-Watt University 
+- **Course**: MSc Robotics 
+- **Module**: B31DG Embedded Software
 
 ## System Specifications
 
