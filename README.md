@@ -99,10 +99,4 @@ Initial implementation used vTaskSuspend/Resume but this caused phase misalignme
 ### Priority Assignment
 Rate Monotonic Scheduling with priorities inversely proportional to task periods ensures optimal deadline adherence.
 
-## License
-MIT License (if applicable)
 
-## Acknowledgments
-- Supervisor: Dr. Kieran O'Leary
-- Module: B31DG Embedded Systems
-- Institution: Heriot-Watt University Edinburgh
